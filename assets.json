@@ -1,22 +1,25 @@
 [
   {
-    "name": "Pitbull",
-    "denom": "",
-    "logo": "",
-    "base": "",
+    "name": "Skalvcoin",
+    "denom": "factory/chihuahua1wefqrxch9vlpvkxvxx0mtwn5ezx5afakk7nx6j/skalvcoin",
+    "logo": "https://imagedelivery.net/DV1JNBSMdxSCuC4JkjdW8A/d3e3d4ad-7103-416e-152d-81ab55cddd00/public",
+    "base": "factory/chihuahua1wefqrxch9vlpvkxvxx0mtwn5ezx5afakk7nx6j/skalvcoin",
     "denom_units": [
       {
-        "denom": "",
+        "denom": "factory/chihuahua1wefqrxch9vlpvkxvxx0mtwn5ezx5afakk7nx6j/skalvcoin",
         "exponent": 6,
         "aliases": [
-          ""
+          "skalvcoin"
         ]
       }
     ],
-    "description": "",
-    "display": "",
-    "symbol": "",
+    "description": "Skalv's community token",
+    "display": "factory/chihuahua1wefqrxch9vlpvkxvxx0mtwn5ezx5afakk7nx6j/skalvcoin",
+    "symbol": "SKOIN",
     "uri": "",
-    "uri_hash": ""
+    "uri_hash": "",
+    "website": "ska.lv",
+    "twitter": "Florent_boutin",
+    "telegram": ""
   }
 ]
