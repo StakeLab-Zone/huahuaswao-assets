@@ -1,0 +1,22 @@
+[
+  {
+    name: "Pitbull",
+    denom: "",
+    logo: "",
+    base: "",
+    denom_units: [
+      {
+    denom: "",
+    exponent: 6,
+    aliases: [
+          ""
+        ]
+      }
+    ],
+    description: "",
+    display: "",
+    symbol: "",
+    uri: "",
+    uri_hash: ""
+  }
+]
